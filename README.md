@@ -16,7 +16,7 @@ _Collaborate and work together on GitHub._
   Each step should be wrapped in <details>/<summary>, with an `id` set.
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
--->
+-->SB
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
